@@ -1,0 +1,22 @@
+body {
+    font-family:'Poppins', sans-serif;
+    margin:0;
+}
+
+nav {
+    background:transparent;
+}
+.mr-auto, .mx-auto {
+    margin-left:auto !important;
+}
+.nav-item {
+    padding-inline:30px;
+    padding-top:10px;
+}
+
+.jumbotron {
+    background-image:url("../images/pexels-andrew-neel-2123337.jpg");
+    height:50vh;
+    width:100%;
+    background-size:cover;
+}
